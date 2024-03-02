@@ -18,8 +18,17 @@ my first class in the programming class
   <label for="gender">Gender:</label>
   <select id="gender" name="gender">
   <option value="male">Male</option>
-  <option value="  
-    <form
-</body>
+  <option value="female">Female</option>
+    <option value="other">Other</option>
+  </select>
+    <label for="newsletter">Subscribe to Newsletter:</label>
+    <input type="checkbox" id="newsletter" name="newsletter">
+    <label for="comments">Comments:</label>
+    <textarea id="comments" name="comments" rows="4"></textarea>
+    <button type="submit">Submit</button>
+  </form>
   </body>
+  </html>
+      
+   
     
